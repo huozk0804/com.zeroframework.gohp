@@ -1,0 +1,20 @@
+{
+    "name": "ZeroFramework.Goap.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c84415b6b04ac9b47a6b6f815059b6b3",
+        "GUID:21ca74cfeee5d4c4aa1c43b51a796cdb",
+        "GUID:7d4b8a393ae3feb4d850c4001f34830b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
