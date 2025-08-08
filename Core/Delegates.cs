@@ -4,7 +4,7 @@
 // Feedback: https://github.com/huozk0804/ZeroFramework
 //------------------------------------------------------------
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     /// <summary>
     /// 目标请求委托 - 用于处理目标请求事件

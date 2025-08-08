@@ -6,7 +6,7 @@
 
 using UnityEngine;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     [DefaultExecutionOrder(-99)]
     public class AgentTypeBehaviour : MonoBehaviour

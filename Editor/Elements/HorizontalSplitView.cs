@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace ZeroFramework.Editor.Package
+namespace Keystone.Editor.Package
 {
     public class HorizontalSplitView : VisualElement
     {

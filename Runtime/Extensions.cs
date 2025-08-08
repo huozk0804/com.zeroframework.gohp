@@ -8,10 +8,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using JetBrains.Annotations;
-using ZeroFramework.Goap.Agent;
+using Keystone.Goap.Agent;
 using UnityEngine;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public static class Extensions
     {

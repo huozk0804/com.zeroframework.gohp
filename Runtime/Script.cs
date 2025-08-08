@@ -7,7 +7,7 @@
 using System;
 using UnityEngine;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     [Serializable]
     public class Script

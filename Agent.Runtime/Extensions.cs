@@ -7,7 +7,7 @@
 using System;
 using System.Linq;
 
-namespace ZeroFramework.Goap.Agent
+namespace Keystone.Goap.Agent
 {
     public static class Extensions
     {

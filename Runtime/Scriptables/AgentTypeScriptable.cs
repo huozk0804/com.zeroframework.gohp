@@ -9,7 +9,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Serialization;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     [CreateAssetMenu(menuName = "Goap/AgentTypeConfig")]
     public class AgentTypeScriptable : ScriptableObject

@@ -4,7 +4,7 @@
 // Feedback: https://github.com/huozk0804/ZeroFramework
 //------------------------------------------------------------
 
-namespace ZeroFramework.Goap.Agent
+namespace Keystone.Goap.Agent
 {
     public interface IDataReferenceInjector : IComponentReference
     {

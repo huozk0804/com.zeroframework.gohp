@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace ZeroFramework.Editor.Package
+namespace Keystone.Editor.Package
 {
     public class DebugGraph
     {

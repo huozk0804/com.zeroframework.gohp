@@ -5,7 +5,7 @@
 //------------------------------------------------------------
 
 #if RABBIT_LOGGER_1
-using ZeroFramework.Logger;
+using Keystone.Logger;
 using System.Linq;
 #else
 using System;
@@ -13,7 +13,7 @@ using UnityEngine;
 #endif
 using System.Collections.Generic;
 
-namespace ZeroFramework.Goap.Agent
+namespace Keystone.Goap.Agent
 {
 #if RABBIT_LOGGER_1
     public abstract class LoggerBase<TObj> : ILogger<TObj>

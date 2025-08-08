@@ -7,11 +7,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using ZeroFramework.Goap.Agent;
+using Keystone.Goap.Agent;
 using Unity.Collections;
 using Unity.Mathematics;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public class AgentTypeJobRunner : IAgentTypeJobRunner
     {

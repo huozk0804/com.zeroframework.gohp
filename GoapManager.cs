@@ -7,9 +7,9 @@
 using System.Collections.Generic;
 using UnityEngine.Serialization;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
-    public sealed class GoapManager : GameFrameworkModule, IGoapManager
+    public sealed class GoapManager : GameModule, IGoapManager
     {
         private Goap _goap;
         private GoapControllerBase _controllerHelper;

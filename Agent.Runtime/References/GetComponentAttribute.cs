@@ -6,7 +6,7 @@
 
 using System;
 
-namespace ZeroFramework.Goap.Agent
+namespace Keystone.Goap.Agent
 {
     [AttributeUsage(AttributeTargets.Property)]
     public class GetComponentAttribute : Attribute

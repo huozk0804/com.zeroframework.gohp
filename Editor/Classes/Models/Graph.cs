@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ZeroFramework.Editor.Package
+namespace Keystone.Editor.Package
 {
     public class Graph
     {

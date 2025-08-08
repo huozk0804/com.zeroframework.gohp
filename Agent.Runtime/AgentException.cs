@@ -6,7 +6,7 @@
 
 using System;
 
-namespace ZeroFramework.Goap.Agent
+namespace Keystone.Goap.Agent
 {
     public class AgentException : Exception
     {

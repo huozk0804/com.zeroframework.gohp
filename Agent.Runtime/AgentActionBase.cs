@@ -4,7 +4,7 @@
 // Feedback: https://github.com/huozk0804/ZeroFramework
 //------------------------------------------------------------
 
-namespace ZeroFramework.Goap.Agent
+namespace Keystone.Goap.Agent
 {
     // Backwards compatibility for old actions
     public abstract class AgentActionBase<TActionData> : AgentActionBase<TActionData, EmptyActionProperties>

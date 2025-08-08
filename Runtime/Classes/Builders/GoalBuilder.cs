@@ -7,7 +7,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public class GoalBuilder<T> : GoalBuilder
         where T : IGoal

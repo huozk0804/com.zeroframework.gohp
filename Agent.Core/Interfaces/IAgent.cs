@@ -4,7 +4,7 @@
 // Feedback: https://github.com/huozk0804/ZeroFramework
 //------------------------------------------------------------
 
-namespace ZeroFramework.Goap.Agent
+namespace Keystone.Goap.Agent
 {
     /// <summary>
     /// 代理接口 - 定义代理的属性和行为

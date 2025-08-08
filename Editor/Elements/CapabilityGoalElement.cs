@@ -1,8 +1,8 @@
 ﻿using UnityEditor;
 using UnityEngine.UIElements;
-using ZeroFramework.Goap;
+using Keystone.Goap;
 
-namespace ZeroFramework.Editor.Package
+namespace Keystone.Editor.Package
 {
     public class CapabilityGoalElement : VisualElement, IFoldable
     {

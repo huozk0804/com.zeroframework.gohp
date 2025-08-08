@@ -6,9 +6,9 @@
 
 using System;
 using System.Collections.Generic;
-using ZeroFramework.Goap.Agent;
+using Keystone.Goap.Agent;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public interface IWorldData
     {

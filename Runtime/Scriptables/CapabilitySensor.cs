@@ -6,7 +6,7 @@
 
 using System;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     [Serializable]
     public abstract class CapabilitySensor

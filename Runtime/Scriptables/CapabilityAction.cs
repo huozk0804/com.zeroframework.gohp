@@ -7,9 +7,9 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
-using ZeroFramework.Goap.Agent;
+using Keystone.Goap.Agent;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     [Serializable]
     public class CapabilityAction

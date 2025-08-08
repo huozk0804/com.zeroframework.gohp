@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using Unity.Collections;
 using Unity.Jobs;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public class ResolveHandle : IResolveHandle
     {

@@ -4,7 +4,7 @@
 // Feedback: https://github.com/huozk0804/ZeroFramework
 //------------------------------------------------------------
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     /// <summary>
     /// 比较操作枚举 - 用于定义不同的比较操作类型

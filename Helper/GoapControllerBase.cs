@@ -6,7 +6,7 @@
 
 using UnityEngine;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public abstract class GoapControllerBase : MonoBehaviour, IGoapController
     {

@@ -6,7 +6,7 @@
 
 using System;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public class TargetSensorConfig<TSensor> : TargetSensorConfig
         where TSensor : ITargetSensor

@@ -7,7 +7,7 @@
 using Unity.Mathematics;
 using UnityEngine;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public interface IPositionBuilder
     {

@@ -7,7 +7,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ZeroFramework.Goap.Agent
+namespace Keystone.Goap.Agent
 {
     public interface ILogger<TObj> : ILogger
     {

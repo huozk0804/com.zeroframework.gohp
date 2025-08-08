@@ -10,7 +10,7 @@ using Unity.Collections;
 using Unity.Jobs;
 using Unity.Mathematics;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     [BurstCompile]
     public struct NodeData

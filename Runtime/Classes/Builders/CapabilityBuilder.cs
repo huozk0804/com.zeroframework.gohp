@@ -6,9 +6,9 @@
 
 using System.Collections.Generic;
 using System.Linq;
-using ZeroFramework.Goap.Agent;
+using Keystone.Goap.Agent;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public class CapabilityBuilder
     {

@@ -7,7 +7,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ZeroFramework.Goap.Agent
+namespace Keystone.Goap.Agent
 {
     public abstract class ActionProviderBase : MonoBehaviour, IActionProvider
     {

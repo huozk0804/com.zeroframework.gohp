@@ -2,7 +2,7 @@
 using UnityEngine.UIElements;
 using Object = UnityEngine.Object;
 
-namespace ZeroFramework.Editor.Package
+namespace Keystone.Editor.Package
 {
     public class EditorWindowValues
     {

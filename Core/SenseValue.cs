@@ -4,7 +4,7 @@
 // Feedback: https://github.com/huozk0804/ZeroFramework
 //------------------------------------------------------------
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     /// <summary>
     /// 感知值结构体

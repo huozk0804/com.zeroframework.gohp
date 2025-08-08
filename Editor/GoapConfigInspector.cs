@@ -1,7 +1,7 @@
 using UnityEditor;
-using ZeroFramework.Editor;
+using Keystone.Editor;
 
-namespace ZeroFramework.Goap.Editor
+namespace Keystone.Goap.Editor
 {
     [CustomEditor(typeof(GoapConfig))]
     public sealed class GameFrameworkConfigInspector : GameFrameworkInspector

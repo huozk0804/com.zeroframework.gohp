@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using UnityEditor;
-using ZeroFramework.Goap;
+using Keystone.Goap;
 
-namespace ZeroFramework.Editor.Package
+namespace Keystone.Editor.Package
 {
     public class SensorList<TSensorType> : ListElementBase<TSensorType, CapabilitySensorElement>
         where TSensorType : CapabilitySensor, new()

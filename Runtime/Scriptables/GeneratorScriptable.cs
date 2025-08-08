@@ -8,7 +8,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     [CreateAssetMenu(menuName = "Goap/Generator")]
     public class GeneratorScriptable : ScriptableObject

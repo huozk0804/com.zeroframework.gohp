@@ -8,10 +8,10 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
-using ZeroFramework.Goap.Agent;
+using Keystone.Goap.Agent;
 using Debug = UnityEngine.Debug;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public abstract class MultiSensorBase : IMultiSensor
     {

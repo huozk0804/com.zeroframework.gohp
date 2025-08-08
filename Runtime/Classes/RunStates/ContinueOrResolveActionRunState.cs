@@ -4,9 +4,9 @@
 // Feedback: https://github.com/huozk0804/ZeroFramework
 //------------------------------------------------------------
 
-using ZeroFramework.Goap.Agent;
+using Keystone.Goap.Agent;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public class ContinueOrResolveActionRunState : ActionRunState
     {

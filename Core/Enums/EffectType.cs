@@ -4,7 +4,7 @@
 // Feedback: https://github.com/huozk0804/ZeroFramework
 //------------------------------------------------------------
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     /// <summary>
     /// 效果类型枚举 - 用于定义GOAP动作的效果类型

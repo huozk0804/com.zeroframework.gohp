@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public class ClassGenerator
     {

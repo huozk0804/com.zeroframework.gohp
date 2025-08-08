@@ -6,7 +6,7 @@
 
 using System.Collections.Generic;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public class GoalRequest : IGoalRequest
     {

@@ -1,9 +1,9 @@
 ﻿using UnityEditor;
 using UnityEngine;
 using UnityEngine.UIElements;
-using ZeroFramework.Goap;
+using Keystone.Goap;
 
-namespace ZeroFramework.Editor.Package
+namespace Keystone.Editor.Package
 {
     [CustomEditor(typeof(CapabilityConfigScriptable))]
     public class CapabilityConfigScriptableEditor : UnityEditor.Editor

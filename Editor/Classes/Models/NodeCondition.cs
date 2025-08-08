@@ -1,6 +1,6 @@
 using System;
 
-namespace ZeroFramework.Editor.Package
+namespace Keystone.Editor.Package
 {
     public class NodeCondition
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine.UIElements;
 
-namespace ZeroFramework.Editor.Package
+namespace Keystone.Editor.Package
 {
     public class LabeledField<T> : VisualElement
         where T : VisualElement, new()

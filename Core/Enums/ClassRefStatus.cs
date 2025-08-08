@@ -4,7 +4,7 @@
 // Feedback: https://github.com/huozk0804/ZeroFramework
 //------------------------------------------------------------
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     /// <summary>
     /// 类引用状态枚举 - 用于表示类引用的不同状态

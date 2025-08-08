@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Unity.Collections;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public class GraphResolver : IGraphResolver
     {

@@ -2,9 +2,9 @@
 using System.Linq;
 using UnityEditor;
 using UnityEngine.UIElements;
-using ZeroFramework.Goap;
+using Keystone.Goap;
 
-namespace ZeroFramework.Editor.Package
+namespace Keystone.Editor.Package
 {
     public class EffectList : ListElementBase<CapabilityEffect, CapabilityEffectElement>
     {

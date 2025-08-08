@@ -9,7 +9,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     [CreateAssetMenu(menuName = "Goap/CapabilityConfig")]
     public class CapabilityConfigScriptable : ScriptableCapabilityFactoryBase

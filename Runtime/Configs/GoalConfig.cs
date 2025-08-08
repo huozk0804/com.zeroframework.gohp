@@ -7,7 +7,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     [Serializable]
     public class GoalConfig : IGoalConfig, IClassCallbackConfig

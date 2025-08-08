@@ -7,7 +7,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     public abstract class KeyBuilderBase<TInterface>
     {

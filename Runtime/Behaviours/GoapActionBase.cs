@@ -5,9 +5,9 @@
 //------------------------------------------------------------
 
 using System;
-using ZeroFramework.Goap.Agent;
+using Keystone.Goap.Agent;
 
-namespace ZeroFramework.Goap
+namespace Keystone.Goap
 {
     // Backwards compatability for v2 actions
     public abstract class GoapActionBase<TActionData> : GoapActionBase<TActionData, EmptyActionProperties>

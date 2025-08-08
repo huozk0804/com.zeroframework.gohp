@@ -6,7 +6,7 @@
 
 using UnityEngine;
 
-namespace ZeroFramework.Goap.Agent
+namespace Keystone.Goap.Agent
 {
     /// <summary>
     /// 目标接口 - 定义目标的基本属性和方法

@@ -1,4 +1,4 @@
-﻿using ZeroFramework.Goap.Runtime;
+﻿using Keystone.Goap.Runtime;
 using UnityEngine;
 
 namespace {{namespace}}

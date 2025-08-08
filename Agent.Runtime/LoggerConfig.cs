@@ -7,7 +7,7 @@
 using System;
 using UnityEngine;
 
-namespace ZeroFramework.Goap.Agent
+namespace Keystone.Goap.Agent
 {
     [Serializable]
     public class LoggerConfig : ILoggerConfig
